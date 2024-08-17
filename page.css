@@ -63,13 +63,7 @@ border-radius:10px;
 opacity:0;
 animation:slideRight 1s ease forwards;
 }
-.con{
-    margin:-380px 800px;
-    flex-direction: row;
-    display: flex;
-    
-    
-}
+
 
 .con a{
   text-decoration:none;
