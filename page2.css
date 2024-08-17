@@ -279,4 +279,7 @@ width:200px;
  footer p{
   margin:7px;
  }
+textarea{
+   margin:0px 20px;
+}
 }
