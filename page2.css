@@ -1,8 +1,9 @@
 .content{
-   margin-top:-400px;
+   margin-top:-600px;
    margin-left:20px;
   font-size:20px;
   width: 100%;
+   display:inline;
 }
 .content3{
     margin-top:150px;
