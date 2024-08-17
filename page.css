@@ -15,7 +15,7 @@ body{
   padding-top: 20px;
   margin: 0 auto;
   overflow-x: hidden;
-    position:relative;
+display:grid;
    
 }
 .logo span{
