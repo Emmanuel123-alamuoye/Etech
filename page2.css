@@ -1,5 +1,5 @@
 .content{
-   margin-top:-600px;
+   margin-top:-400px;
    margin-left:20px;
   font-size:20px;
   width: 100%;
@@ -106,7 +106,7 @@ footer a{
 }
 .content{
   display: block;
-  margin:0px 20px;
+  margin:-400px 20px;
 }
 .content2{
   margin:100px 20px;
